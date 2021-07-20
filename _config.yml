@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Bolei Zhang"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at School of Computer, Nanjing University of Posts and Telecommunications"
+  bio              : "PhD, Assistant Professor\nSchool of Computer, Nanjing University of Posts and Telecommunications"
   location         : "Nanjing, China"
   employer         :
   $pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   $googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  "bolei.zhang#njupt.edu.cn"
+  email            : "bolei.zhang#njupt.edu.cn"
+  #researchgate     :  
   uri              :
   bitbucket        :
   codepen          :

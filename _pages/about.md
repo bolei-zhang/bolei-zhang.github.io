@@ -36,24 +36,24 @@ Sep 2021 - Dec 2021
 
 Experience
 ========
-Assistant Professor
-Nanjing University of Posts and Telecommunications
+Assistant Professor,
+Nanjing University of Posts and Telecommunications,
 June 2020 - Current
 
-Senior Algorithmic Engineer
-JD AI Lab
+Senior Algorithmic Engineer,
+JD AI Lab,
 June 2018 - May 2020
 
-Research Scientist
-IBM Research China Lab
+Research Scientist,
+IBM Research China Lab,
 Oct 2016 - May 2018
 
-Visiting Scholar
-Information Institute, University of Goettingen
+Visiting Scholar,
+Information Institute, University of Goettingen,
 June 2014 - Oct 2014
 
 Contact
 =======
-bolei.zhang#njupt.edu.cn
-307 Nanjing University
+bolei.zhang#njupt.edu.cn\n
+307 Nanjing University\n
 163 Xianlin Road, Qixia District, Nanjing, China

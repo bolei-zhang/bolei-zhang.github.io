@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Bolei Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of School of Computer at Nanjing University of Posts and Telecommunications. I got my PhD degree from Nanjing University in 2016. After that, I joined IBM Research as a research scientist. Then I worked as a senior algorithmic engineer in JD AI lab from 2018 to 2020. In June. 2020, I joined school of computer, NJUPT. My research work mainly focuses on mobile sensing, data mining and reinforcement learning.
+I am an assistant professor of School of Computer at Nanjing University of Posts and Telecommunications. I work in IoT, data mining and reinforcement learning. More information can be found at [Research](https://bolei-zhang.github.io/research/).
 
-I am looking for well motivated students. Please contact me by email.
+I received a PhD in Department of Computer Science from Nanjing University in 2016, and a BA in Computer Science from Nanjing University in 2010. I joined IBM Research as a research scientist. Then I worked as a senior algorithmic engineer in JD AI lab from 2018 to 2020.
+
+You can reach me via email: bolei.zhang [at] njupt.edu.cn.
 
 Publications
 =======
@@ -34,7 +36,9 @@ Teaching
 Advanced Programming Language
 Sep 2021 - Dec 2021
 
-Experience
+
+
+Career & Education
 ========
 Assistant Professor,
 Nanjing University of Posts and Telecommunications,
@@ -52,8 +56,15 @@ Visiting Scholar,
 Information Institute, University of Goettingen,
 June 2014 - Oct 2014
 
+PhD Student, Department of Computer Science, Nanjing University, Sep 2010 - Sep 2016
+
+Bachelor Student, Department of Computer Science, Nanjing University, Sep 2006 - June 2010
+
+
 Contact
 =======
-bolei.zhang#njupt.edu.cn\n
-307 Nanjing University\n
+bolei.zhang#njupt.edu.cn
+
+307 Nanjing University
+
 163 Xianlin Road, Qixia District, Nanjing, China

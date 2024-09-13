@@ -14,17 +14,18 @@ author_profile: true
 
 * <b>Offline Reinforcement Learning</b> aims to close the gap between real world environment and simulation environment. We are implementing algorithms on real autonomous vehicles for navigation, sensing, etc.
 
-* <b>LLM and Reinforcement Learning</b> builds human-like behaviors by interacting with LLM such as GPT-3.
 
-<div float="left" style="margin-left:200px; width:100%;">
-  <img src="../images/minecraft_success0.gif" width="250" />
-  <img src="../images/minecraft_success1.gif" width="250" /> 
-</div>
-
-### Data Mining
+### AI4Science
 * <b>Single cell ATAC clustering</b> is to cluster the single cell ATAC data, which is high-dimension, sparse with lots of dropouts. We employ AI methods to analyze the cells.
 
+* <b>Molecule structure prediction</b> and mining. We use deep (reinforcement) learning to predict the molecule structures.
+
+### Data Mining
+
 * <b>Information Diffusion Prediction</b> is to predict the information cascade with historical data. We adopted cascade structure as the main feature for prediction. 
+
+
+
 
 
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of School of Computer at Nanjing University of Posts and Telecommunications. My research interests include reinforcement learning, data mining, and AI4Science. More information can be found at [Research](https://bolei-zhang.github.io/research/).
+I am an associate professor of School of Computer at Nanjing University of Posts and Telecommunications. My research interests include reinforcement learning, data mining, and AI4Science. More information can be found at [Research](https://bolei-zhang.github.io/research/).
 
 I received both B.S. and PhD degrees in Department of Computer Science from Nanjing University. After that, I worked in IBM Research JD AI lab from 2016 to 2020. I joined NJUPT in June 2020.
 
@@ -38,7 +38,7 @@ Song Jiang, Zhaohui Qin, Erguang Li, Hongqian Guo#, Zhihong Liu#, Jingping Yang#
 * **Bolei Zhang**, Junliang Liu, Fu Xiao. Learning to Communicate for Mobile Sensing with Multi-Agent Reinforcement Learning, WASA 2021.
 
 
-Projects
+Main Projects
 ===
 - 2023.1-2025.12, "Research on Cooperation in Complex Social Dilemmas with Multi-Agent Reinforcement Learning", sponsored by the National Natural Science Foundation of China
 
@@ -58,7 +58,7 @@ Teaching
 
 Career & Education
 ========
-- Assistant Professor, Nanjing University of Posts and Telecommunications, June 2020 - Current
+- Nanjing University of Posts and Telecommunications, June 2020 - Current
 
 - Senior Algorithm Engineer, JD AI Lab, June 2018 - May 2020
 

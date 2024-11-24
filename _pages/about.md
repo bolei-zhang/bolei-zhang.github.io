@@ -22,9 +22,9 @@ Recent Publications
 
 * Qi Wang\*, **Bolei Zhang**\*, Yue Guo, Luyu Gong, Erguang Li#, Jingping Yang#. Unlocking cross-modal interplay of single-cell joint profiling with CellMATE. Briefings in Bioinformatics, 25(6), 2024 (SCI Q1).
 
-**Bolei Zhang\*#**, Lifa Wu. Online Budget-feasible Mobile Crowdsensing with Constrained Reinforcement Learning. The Journal of Supercomputing. (accepted)
+* **Bolei Zhang#**, Lifa Wu. Online Budget-feasible Mobile Crowdsensing with Constrained Reinforcement Learning. The Journal of Supercomputing. (accepted)
 
-* **Bolei Zhang**, Fu Xiao, Lifa Wu. Offline Reinforcement Learning for Asynchronous Task Offloading in Mobile Edge Computing, IEEE Transactions on Network Service and Management, 21(1), 939-952, 2024.
+* **Bolei Zhang#**, Fu Xiao, Lifa Wu. Offline Reinforcement Learning for Asynchronous Task Offloading in Mobile Edge Computing, IEEE Transactions on Network Service and Management, 21(1), 939-952, 2024.
 
 * **Bolei Zhang**, Jingtao Zhang, Lifa Wu, Fu Xiao. Robust Online Crowdsourcing with Strategic Workers. APPT 2023: 417-433. <font color=red>(Innovation Award)</font>
 

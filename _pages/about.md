@@ -48,7 +48,7 @@ Main Projects
 
 - 2024.7-2026.7, "Research on Offline Reinforcement Learning with Causal Inference", sponsored by the China Postdoctoral Science Foundation.
 
-- 2020.7-2023.7, "Research on Large-scale Multi-Agent Reinforcement Learning in real Networked Systems", sponsored by the Jiangsu Natural Science Foundation of China
+- 2020.7-2023.7, "Research on Large-scale Multi-Agent Reinforcement Learning in Real Networked Systems", sponsored by the Jiangsu Natural Science Foundation of China
 
 
 Teaching

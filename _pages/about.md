@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor of School of Computer at Nanjing University of Posts and Telecommunications. My research interests include reinforcement learning, data mining, and AI4Science. More information can be found at [Research](https://bolei-zhang.github.io/research/).
+I am an associate professor of School of Computer at Nanjing University of Posts and Telecommunications. My research interests include reinforcement learning, social computing, and AI4Science. More information can be found at [Research](https://bolei-zhang.github.io/research/).
 
 I received both B.S. and PhD degrees in Department of Computer Science from Nanjing University. After that, I worked in IBM Research JD AI lab from 2016 to 2020. I joined NJUPT in June 2020.
 

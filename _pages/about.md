@@ -20,9 +20,13 @@ Recent Publications
 =======
 <font size=small>(* Equal Contribution and # Corresponding Author)</font>
 
-* Qi Wang\*, **Bolei Zhang**\*, Yue Guo, Luyu Gong, Erguang Li#, Jingping Yang#. Unlocking cross-modal interplay of single-cell joint profiling with CellMATE. Briefings in Bioinformatics, 25(6), 2024 (SCI Q1).
+* Xun Wang, Jingmian Wang, Zhuzhong Qian# and **Bolei Zhang#**. Online Adaptable Offline RL with Guidance Model, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Jul. 2025.
 
-* **Bolei Zhang#**, Lifa Wu. Online Budget-feasible Mobile Crowdsensing with Constrained Reinforcement Learning. The Journal of Supercomputing. (accepted)
+* Guoyu Hu,  Simeng Huang, Zhuzeyang, Changbo Ke and **Bolei Zhang#**. Graph-based Multi-scale Learning for Predicting Mass Spectra from Molecules.International Conference on Intelligent Computing, 2025. 
+
+* **Bolei Zhang#**, Lifa Wu. Online Budget-feasible Mobile Crowdsensing with Constrained Reinforcement Learning. The Journal of Supercomputing, 2025.
+
+* Qi Wang\*, **Bolei Zhang**\*, Yue Guo, Luyu Gong, Erguang Li#, Jingping Yang#. Unlocking cross-modal interplay of single-cell joint profiling with CellMATE. Briefings in Bioinformatics, 25(6), 2024 (SCI Q1).
 
 * **Bolei Zhang#**, Fu Xiao, Lifa Wu. Offline Reinforcement Learning for Asynchronous Task Offloading in Mobile Edge Computing, IEEE Transactions on Network Service and Management, 21(1), 939-952, 2024.
 

@@ -58,9 +58,9 @@ Main Projects
 Teaching
 ========
 <!--Advanced Programming Language, [Sep 2021 - Dec 2021](https://http://10.164.32.11:8000/course/index.html) (Only in campus)-->
-* Python and AI, [2022, 2023, 2024], [Sep 2025 - Dec 2025](https://bolei-zhang.github.io/course/python-ai.html) (Password required). 
+* Python and AI, [2022, 2023, 2024],  
 
-* Optimization Methods, [2022, 2023, 2024].
+* Optimization Methods, [2022, 2023, 2024], [Sep 2025 - Dec 2025](https://bolei-zhang.github.io/course/opt.html) (Password required).
 
 
 

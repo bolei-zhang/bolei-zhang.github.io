@@ -20,6 +20,8 @@ Recent Publications
 =======
 <font size=small>(* Equal Contribution and # Corresponding Author)</font>
 
+* Zhurun Zhang, Xu Ma, Haokuan Yuan, Guni Wei, and **Bolei Zhang#**. Bridging Planning and Control: A Hybrid LLM–RL Framework for Multi-Agent Systems, ECML-PKDD, Sep. 2026.
+
 * Xun Wang, Jingmian Wang, Zhuzhong Qian# and **Bolei Zhang#**. Online Adaptable Offline RL with Guidance Model, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Jul. 2025.
 
 * Guoyu Hu,  Simeng Huang, Zhuzeyang, Changbo Ke and **Bolei Zhang#**. Graph-based Multi-scale Learning for Predicting Mass Spectra from Molecules.International Conference on Intelligent Computing, 2025. 
@@ -58,9 +60,9 @@ Main Projects
 Teaching
 ========
 <!--Advanced Programming Language, [Sep 2021 - Dec 2021](https://http://10.164.32.11:8000/course/index.html) (Only in campus)-->
-* Python and AI, [2022, 2023, 2024], [Mar 2026 - Jun 2026](https://bolei-zhang.github.io/course/python-ai.html) (Password required). 
+* Python and AI, [2022, 2023, 2024, 2026]. 
 
-* Optimization Methods, [2022, 2023, 2024, 2025].
+* Optimization Methods, [2022, 2023, 2024, 2025], [Sep 2026 - Dec 2026](https://bolei-zhang.github.io/course/opt.html) (Password required).
 
 
 
